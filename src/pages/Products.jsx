@@ -113,7 +113,7 @@ function Products() {
   }
 
   return (
-    <main className="py-10">
+    <main className="pt-20">
       <div className="max-w-[1320px] mx-auto px-4">
 
         {/* Page heading */}

@@ -59,7 +59,7 @@ function ProductDetails() {
   // Error state
   if (error) {
     return (
-      <main className="py-20">
+      <main className="pt-20">
         <p className="text-red-500 text-center font-semibold">
           {error}
         </p>

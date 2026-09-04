@@ -28,7 +28,7 @@ function Home() {
   }, []);
 
   return (
-    <main>
+    <main className="pt-20">
       {/* ==================== HERO SECTION ==================== */}
       <section className="bg-gray-100">
         <div className="max-w-[1320px] mx-auto px-4">
