@@ -1,11 +1,21 @@
+
 # 🛍️ ShopEase — React E-Commerce Website
 
-ShopEase is a modern and responsive e-commerce web application built with **React.js**.  
+ShopEase is a modern and responsive e-commerce web application built with **React.js**.
+
 The project provides a simple shopping experience where users can browse products, search products, filter by category, view product details, and manage their shopping cart.
 
 This project was built as a practical frontend development project to demonstrate React, API integration, state management, responsive UI design, and modern development practices.
 
+## 🔗 Project Links
+
+**Live Demo:** https://shopease-six-mauve.vercel.app
+
+**GitHub:** https://github.com/k7456794/shopease
+
 ---
+
+## 🚀 Features
 
 ## 🚀 Features
 
@@ -97,7 +107,7 @@ Because LocalStorage is used, the cart remains available even after refreshing t
 
 ## 📁 Project Structure
 
-```text
+
 ecommerceproject/
 │
 ├── public/
